@@ -15,7 +15,7 @@ const NavBar: React.FC = () => {
         <Menu fixed='top' inverted>
             <Container>
             <Menu.Item header as={NavLink} exact to={'/'}>
-                <img src='/assets/logo.png' alt='logo' style={{marginRight: 10}} />
+                <img src='/assets/bug_image.png' alt='logo' style={{marginRight: 10}} />
                 Bug Tracker
             </Menu.Item>
             <Menu.Item header as={NavLink} exact to={'/dashboard'}>

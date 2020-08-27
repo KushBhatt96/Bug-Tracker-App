@@ -20,7 +20,7 @@ const HomePage = () => {
                 <Header as='h1' inverted>
                     <Image
                         size='massive'
-                        src='/assets/logo.png'
+                        src='/assets/bug_image.png'
                         alt='logo'
                         style={{marginBottom: 12}}
                     />
